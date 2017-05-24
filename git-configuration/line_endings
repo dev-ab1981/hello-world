@@ -1,0 +1,10 @@
+# global settings:
+
+# 1. windows systems
+# git config core.autocrlf true
+
+# 2. mac systems
+# git config --global core.autocrlf input
+
+# 3. linux 
+# git config --global core.autocrlf input
